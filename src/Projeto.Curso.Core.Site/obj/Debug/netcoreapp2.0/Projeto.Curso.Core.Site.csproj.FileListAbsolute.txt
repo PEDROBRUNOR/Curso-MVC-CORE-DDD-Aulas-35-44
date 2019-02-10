@@ -1,0 +1,41 @@
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.AssemblyInfo.cs
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.deps.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.runtimeconfig.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.runtimeconfig.dev.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.AssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.deps.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.runtimeconfig.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.runtimeconfig.dev.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Application.Pedido.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Application.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Domain.Pedido.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Domain.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.IoC.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.Data.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Application.Pedido.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.IoC.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Infra.Data.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Application.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Domain.Pedido.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\bin\Debug\netcoreapp2.0\Projeto.Curso.Core.Domain.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Site\obj\Debug\netcoreapp2.0\Projeto.Curso.Core.Site.pdb

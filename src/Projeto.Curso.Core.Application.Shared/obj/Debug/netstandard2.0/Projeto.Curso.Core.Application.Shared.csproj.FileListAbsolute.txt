@@ -1,0 +1,15 @@
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.deps.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.AssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Application.Shared\obj\Debug\netstandard2.0\Projeto.Curso.Core.Application.Shared.pdb

@@ -1,0 +1,121 @@
+﻿@model Projeto.Curso.Core.Application.Pedido.ViewModels.ProdutosViewModel
+
+@{
+    ViewData["Title"] = "Incluir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row margem-top-10">
+    <div class="col-md-12">
+        <vc:summary />
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <i class="glyphicon glyphicon-plus"></i>
+                <strong>PRODUTOS - INCLUSÃO</strong>
+            </div>
+            <div class="panel-body padding-25">
+                <div class="row">
+                    <form asp-action="Incluir" autocomplete="off" method="post" enctype="multipart/form-data">
+
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label asp-for="Apelido" class="control-label"></label>
+                                    <input asp-for="Apelido" class="form-control limpa" />
+                                    <span asp-validation-for="Apelido" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label asp-for="Nome" class="control-label"></label>
+                                    <input asp-for="Nome" class="form-control limpa" />
+                                    <span asp-validation-for="Nome" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="Unidade" class="control-label"></label>
+                                    <select autocomplete="off" asp-for="Unidade" class="form-control">
+                                        <option value="" selected>-- Selecione --</option>
+                                        <option value="CM">Cm</option>
+                                        <option value="G">G</option>
+                                        <option value="KG">Kg</option>
+                                        <option value="M">M</option>
+                                        <option value="UN">Un</option>
+                                    </select>
+                                    <span asp-validation-for="Unidade" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="Valor" class="control-label"></label>
+                                    <input asp-for="Valor" class="form-control moeda text-right" />
+                                    <span asp-validation-for="Valor" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <label asp-for="IdFornecedor" class="control-label"></label>
+                                <select autocomplete="off" asp-for="IdFornecedor" asp-items="@ViewBag.ListaFornecedores" class="form-control">
+                                    <option value="">-- Selecione --</option>
+                                </select>
+                                <span asp-validation-for="IdFornecedor" class="text-danger"></span>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <img src="~/images/foto.png" class="img-responsive" width="150" height="150" />
+                                </div>
+                            </div>
+
+                            <div class="col-md-10">
+                                <div class="form-group">
+                                    <input type="file" id="fileSelect" name="fileSelect" class="form-control" />
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <button type="submit" class="btn btn-block btn-success"><i class="glyphicon glyphicon-floppy-disk"></i> Gravar</button>
+                            </div>
+
+                            <div class="col-md-2">
+                                <a asp-area="Cadastros" onclick="return LigaAguarde()" asp-controller="Produtos" asp-action="Index" class="btn  btn-block btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Voltar</a></a>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial");
+    @if (@ViewBag.RetornoPost != "" && @ViewBag.RetornoPost != null)
+    {
+        var notificacao = ViewBag.RetornoPost.Split(',');
+        <script>
+            ExibeMensagem("@notificacao[0]", "@notificacao[1]");
+            var limpa = "@notificacao[0]";
+            if (limpa == 'success') {
+               clearForm();
+                $("#Apelido").focus();
+            }
+        </script>
+    }
+}
+
+
+

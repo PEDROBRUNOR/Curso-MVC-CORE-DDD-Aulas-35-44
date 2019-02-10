@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-Projeto.Curso.Core.Site-63198E3D-47A8-40E3-A694-50AE23DEE807</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
+    <PackageReference Include="CoreCompat.System.Drawing" Version="1.0.0-beta006" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.1" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.1" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projeto.Curso.Core.Application.Pedido\Projeto.Curso.Core.Application.Pedido.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.CrossCutting.IoC\Projeto.Curso.Core.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.CrossCutting\Projeto.Curso.Core.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.Data\Projeto.Curso.Core.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

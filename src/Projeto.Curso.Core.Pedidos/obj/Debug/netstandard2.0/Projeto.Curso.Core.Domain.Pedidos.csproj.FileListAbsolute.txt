@@ -1,0 +1,13 @@
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.deps.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.AssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Pedidos\obj\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedidos.pdb

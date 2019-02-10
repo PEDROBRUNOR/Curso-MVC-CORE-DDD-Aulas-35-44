@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Projeto.Curso.Core.Application.Pedido\Projeto.Curso.Core.Application.Pedido.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Application.Shared\Projeto.Curso.Core.Application.Shared.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Domain.Shared\Projeto.Curso.Core.Domain.Shared.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.Data\Projeto.Curso.Core.Infra.Data.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Pedidos\Projeto.Curso.Core.Domain.Pedido.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+  </ItemGroup>
+
+
+</Project>

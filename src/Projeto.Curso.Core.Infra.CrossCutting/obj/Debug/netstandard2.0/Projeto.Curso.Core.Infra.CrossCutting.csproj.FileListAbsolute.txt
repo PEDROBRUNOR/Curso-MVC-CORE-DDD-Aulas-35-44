@@ -1,0 +1,18 @@
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.deps.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.deps.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.CrossCutting\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb

@@ -1,0 +1,32 @@
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\appsettings.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.deps.json
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedido.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedido.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.AssemblyInfo.cs
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.dll
+C:\Projeto.Curso.Core - Copia\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\appsettings.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.deps.json
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedido.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Shared.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Domain.Pedido.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\bin\Debug\netstandard2.0\Projeto.Curso.Core.Infra.CrossCutting.pdb
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.AssemblyInfoInputs.cache
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.AssemblyInfo.cs
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.dll
+C:\Projeto.Curso.Core\src\Projeto.Curso.Core.Infra.Data\obj\Debug\netstandard2.0\Projeto.Curso.Core.Infra.Data.pdb

@@ -1,0 +1,46 @@
+﻿@model Projeto.Curso.Core.Application.Pedido.ViewModels.FornecedoresViewModel
+
+@{
+    ViewData["Title"] = "Excluir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row margem-top-10">
+    <div class="col-md-12">
+        <vc:summary />
+        <div class="panel panel-danger">
+            <div class="panel-heading">
+                <i class="glyphicon glyphicon-trash"></i>
+                <strong>FORNECEDORES - EXCLUSÃO - Você tem certeza que deseja excluir este fornecedor?</strong>
+            </div>
+            <div class="panel-body padding-25">
+                <div class="row">
+                    <form asp-action="Excluir" autocomplete="off">
+                        <input asp-area="Cadastros" asp-for="Id" type="hidden">
+                        @Html.Partial("_FormFornecedoresDetalhe")
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <button type="submit" class="btn btn-block btn-danger"><i class="glyphicon glyphicon-trash"></i> Excluir</button>
+                            </div>
+
+                            <div class="col-md-2">
+                                <a asp-area="Cadastros" onclick="return LigaAguarde()" asp-controller="Fornecedores" asp-action="Index" class="btn  btn-block btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Voltar</a></a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @if (@ViewBag.RetornoPost != "" && @ViewBag.RetornoPost != null)
+    {
+        var notificacao = ViewBag.RetornoPost.Split(',');
+        <script>
+            ExibeMensagem("@notificacao[0]", "@notificacao[1]");
+        </script>
+    }
+}

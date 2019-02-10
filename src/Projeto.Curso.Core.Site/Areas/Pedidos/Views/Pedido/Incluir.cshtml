@@ -1,0 +1,119 @@
+﻿@model Projeto.Curso.Core.Application.Pedido.ViewModels.AgregracaoPedidos.PedidosViewModel;
+
+@{
+    ViewData["Title"] = "Pedido - Incluir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .margem-15 {
+        margin-left: -15px;
+    }
+</style>
+
+<div class="row margem-top-10">
+    <div class="col-md-12">
+        <vc:summary />
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <i class="glyphicon glyphicon-plus"></i>
+                <strong>PEDIDO - INCLUSÃO</strong>
+            </div>
+            <div class="panel-body padding-25">
+                <div class="row">
+                    <form asp-action="Incluir" autocomplete="off" method="post">
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <label class="control-label margem-15">Data Pedido</label>
+                                    <div class="input-group margem-15">
+                                        <input asp-for="DataPedido" class="form-control data" placeholder="Data" />
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                                    </div>
+                                    <span asp-validation-for="DataPedido" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group col-lg-08 col-md-08 col-sm-08 col-xs-08">
+                                    <label class="control-label">Cliente</label>
+                                    <select autocomplete="off" asp-for="IdCliente" asp-items="@ViewBag.ListaClientes" class="form-control">
+                                        <option value="">-- Selecione --</option>
+                                    </select>
+                                    <span asp-validation-for="IdCliente" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-10">
+                                <div class="form-group">
+                                    <label class="control-label">Produto</label>
+                                    <select autocomplete="off" asp-for="IdProduto" asp-items="@ViewBag.ListaProdutos" class="form-control">
+                                        <option value="">-- Selecione --</option>
+                                    </select>
+                                    <span asp-validation-for="IdProduto" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label class="control-label">Quantidade</label>
+                                    <input asp-for="Qtd" class="form-control int3 text-right" />
+                                    <span asp-validation-for="Qtd" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label">Observações</label>
+                                    <div>
+                                        <textarea asp-for="Observacao" rows="5" class="form-control"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <button type="submit" class="btn btn-block btn-success"><i class="glyphicon glyphicon-floppy-disk"></i> Gravar</button>
+                            </div>
+
+                            <div class="col-md-2">
+                                <a asp-area="Pedidos" onclick="return LigaAguarde()" asp-controller="Pedido" asp-action="Index" class="btn  btn-block btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Voltar</a></a>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial");
+    @if (@ViewBag.RetornoPost != "" && @ViewBag.RetornoPost != null)
+    {
+        var notificacao = ViewBag.RetornoPost.Split(',');
+        <script>
+            ExibeMensagem("@notificacao[0]", "@notificacao[1]");
+        </script>
+    }
+
+    <script>
+        ConfigData();
+    </script>
+}

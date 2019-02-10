@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="7.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.DataAnnotations" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projeto.Curso.Core.Domain.Shared\Projeto.Curso.Core.Domain.Shared.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.CrossCutting\Projeto.Curso.Core.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Infra.Data\Projeto.Curso.Core.Infra.Data.csproj" />
+    <ProjectReference Include="..\Projeto.Curso.Core.Pedidos\Projeto.Curso.Core.Domain.Pedido.csproj" />
+  </ItemGroup>
+
+</Project>

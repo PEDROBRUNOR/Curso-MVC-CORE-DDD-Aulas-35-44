@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<script>
+    var urlClientes = '@Url.Action("ListagemClientesJson", "Clientes", new { area = "Cadastros" })';
+    var urlFornecedores = '@Url.Action("ListagemFornecedoresJson", "Fornecedores", new { area = "Cadastros" })';
+    var urlProdutos = '@Url.Action("ListagemProdutosJson", "Produtos", new { area = "Cadastros" })';
+    var urlPedidos = '@Url.Action("ListagemPedidosJson", "Pedido", new { area = "Pedidos" })';
+
+    var urlAlterarCliente = '@Url.Action("Alterar", "Clientes", new { area = "Cadastros" })';
+    var urlExcluirCliente = '@Url.Action("Excluir", "Clientes", new { area = "Cadastros" })';
+    var urlDetalharCliente = '@Url.Action("Detalhar", "Clientes", new { area = "Cadastros" })';
+
+    var urlAlterarFornecedor = '@Url.Action("Alterar", "Fornecedores", new { area = "Cadastros" })';
+    var urlExcluirFornecedor = '@Url.Action("Excluir", "Fornecedores", new { area = "Cadastros" })';
+    var urlDetalharFornecedor = '@Url.Action("Detalhar", "Fornecedores", new { area = "Cadastros" })';
+
+
+    var urlAlterarProduto = '@Url.Action("Alterar", "Produtos", new { area = "Cadastros" })';
+    var urlExcluirProduto = '@Url.Action("Excluir", "Produtos", new { area = "Cadastros" })';
+    var urlDetalharProduto = '@Url.Action("Detalhar", "Produtos", new { area = "Cadastros" })';
+
+
+</script>
+ 
+

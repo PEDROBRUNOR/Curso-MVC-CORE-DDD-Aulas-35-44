@@ -1,0 +1,41 @@
+﻿@model Projeto.Curso.Core.Application.Pedido.ViewModels.FornecedoresViewModel
+
+@{
+    ViewData["Title"] = "Fornecedores - Alteração";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row margem-top-10">
+    <div class="col-md-12">
+        <vc:summary />
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <i class="glyphicon glyphicon-plus"></i>
+                <strong>FORNECEDORES - ALTERAÇÃO</strong>
+            </div>
+            <div class="panel-body padding-25">
+                <div class="row">
+                    <form asp-action="Alterar">
+                        <input asp-area="Cadastros" asp-for="Id" type="hidden">
+                        @Html.Partial("_FormFornecedores")
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial");
+    @if (@ViewBag.RetornoPost != "" && @ViewBag.RetornoPost != null)
+    {
+        var notificacao = ViewBag.RetornoPost.Split(',');
+        <script>
+            ExibeMensagem("@notificacao[0]", "@notificacao[1]");
+        </script>
+    }
+
+}
+
+
+

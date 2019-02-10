@@ -1,0 +1,32 @@
+﻿@model Projeto.Curso.Core.Application.Pedido.ViewModels.ClientesViewModel
+
+@{
+    ViewData["Title"] = "Detalhar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row margem-top-10">
+    <div class="col-md-12">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <i class="glyphicon glyphicon-search"></i>
+                <strong>CLIENTES - DETALHE</strong>
+            </div>
+            <div class="panel-body padding-25">
+                <div class="row">
+                    <form asp-action="Detalhar" autocomplete="off">
+                        <input asp-area="Cadastros" asp-for="Id" type="hidden">
+                        @Html.Partial("_FormClientesDetalhe")
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <a asp-area="Cadastros" onclick="return LigaAguarde()" asp-controller="Clientes" asp-action="Index" class="btn  btn-block btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Voltar</a></a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

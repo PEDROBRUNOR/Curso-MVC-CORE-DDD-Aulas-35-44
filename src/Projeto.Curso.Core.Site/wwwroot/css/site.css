@@ -1,0 +1,198 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.corpo {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    min-height: 250px !important;
+}
+
+
+.footer-bs {
+    background-color: #3c3d41;
+    padding: 60px 40px;
+    color: rgba(255,255,255,1.00);
+    margin-bottom: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+    .footer-bs .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns {
+        padding: 10px 25px;
+    }
+
+    .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns {
+        border-color: transparent;
+    }
+
+    .footer-bs .footer-brand h2 {
+        margin: 0px 0px 10px;
+    }
+
+    .footer-bs .footer-brand p {
+        font-size: 12px;
+        color: rgba(255,255,255,0.70);
+    }
+
+    .footer-bs .footer-brand a {
+        color: rgba(255,255,255,1.00);
+    }
+
+        .footer-bs .footer-brand a:hover {
+            color: rgba(255,255,255,0.80);
+            text-decoration: none;
+        }
+
+    .footer-bs .footer-nav ul.pages {
+        list-style: none;
+        padding: 0px;
+    }
+
+        .footer-bs .footer-nav ul.pages li {
+            padding: 5px 0px;
+        }
+
+        .footer-bs .footer-nav ul.pages a {
+            color: rgba(255,255,255,1.00);
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+            .footer-bs .footer-nav ul.pages a:hover {
+                color: rgba(255,255,255,0.80);
+                text-decoration: none;
+            }
+
+    .footer-bs .footer-nav h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-bottom: 10px;
+    }
+
+    .footer-bs .footer-nav ul {
+        list-style: none;
+        padding: 0px;
+    }
+
+    .footer-bs .footer-nav li {
+        padding: 5px 4px;
+    }
+
+    .footer-bs .footer-nav a {
+        color: rgba(255,255,255,1.00);
+    }
+
+        .footer-bs .footer-nav a:hover {
+            color: rgba(255,255,255,0.80);
+            text-decoration: none;
+        }
+
+    .footer-bs .footer-social ul {
+        list-style: none;
+        padding: 0px;
+    }
+
+    .footer-bs .footer-social h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+
+    .footer-bs .footer-social li {
+        padding: 5px 4px;
+    }
+
+    .footer-bs .footer-social a {
+        color: rgba(255,255,255,1.00);
+    }
+
+        .footer-bs .footer-social a:hover {
+            color: rgba(255,255,255,0.80);
+            text-decoration: none;
+        }
+
+    .footer-bs .footer-ns h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-bottom: 10px;
+    }
+
+    .footer-bs .footer-ns p {
+        font-size: 12px;
+        color: rgba(255,255,255,0.70);
+    }
+
+@media (min-width: 768px) {
+    .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns {
+        border-left: solid 1px rgba(255,255,255,0.10);
+    }
+}
+
+.gap-space {
+    margin-top: 20px;
+}
+
+.margem-top-10 {
+    margin-top: 10px;
+}
+
+
+.no-sort {
+    pointer-events: none !important;
+    cursor: default !important;
+}
+
+    .no-sort::after {
+        display: none !important;
+    }
+
+
+.padding-25 {
+    padding: 25px;
+}
+
+.tabela-cor thead > tr > th,
+.header-cor {
+    width: 100%;
+    border-top: 3px solid #5872a3 !important;
+    border-bottom: 3px solid #5872a3 !important;
+}
